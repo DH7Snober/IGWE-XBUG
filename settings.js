@@ -11,18 +11,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "24160338758"
-global.ownername = "∆PAPA_IGWE∆"
+global.ownernomer = "50932042755"
+global.ownername = "Adam_D'H7"
 global.ytname = "YT: IGWE-tech"
 global.socialm = "GitHub: PAPAIGWE241"
 global.location = "Gabon, Libreville, Estuaire"
 
-global.ownernumber = '24160338758'  //creator number
+global.ownernumber = '50932042755'  //creator number
 global.ownername = 'DADDY IGWE' //owner name
 global.botname = '𝕀𝔾𝕎𝔼-𝕏𝔹𝕌𝔾-BOT' //name of the bot
 
 //sticker details
-global.packname = '𝕀𝔾𝕎𝔼-𝕏𝔹𝕌𝔾|PAPA IGWE'
+global.packname = 'Adam_D'H7'
 global.author = 'IGWETECH INC'
 
 //console view/theme
